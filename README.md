@@ -1,4 +1,4 @@
-# swiftplot
+# Swiftplot
 ## set up for backend 
    open backend project in sts or it intellij and run it it will start backend server
 ## setup for frondend
