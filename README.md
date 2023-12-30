@@ -1,4 +1,9 @@
 # Swiftplot
+## technology used
+- javascript,React, Nextjs, tailwind, bootstrap
+- java ,spring boot- spring data jpa, spring web , postgresql driver
+- Database - postgresql
+
 ## set up for backend 
    open backend project in sts or it intellij and run it it will start backend server
 ## setup for frondend
