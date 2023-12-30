@@ -1,6 +1,6 @@
 # Swiftplot
 ## technology used
-- javascript,React, Nextjs, tailwind, bootstrap
+- javascript,React, Nextjs, tailwind, bootstrap, axios
 - java ,spring boot- spring data jpa, spring web , postgresql driver
 - Database - postgresql
 
